@@ -36,6 +36,3 @@ Follow me on my socials ✨
 10. Congratulations! You've made you contribution! 🥳
 
 
-## You can check the live preview of this project right here:
-
-[Front-end Questions✨](https://)

@@ -1,2 +1,6 @@
-# frontend-questions
-this repository consists of helping beginners in the programming area by bringing questions and answers about front-end
+# Front-end Questions
+
+## This repository consists of helping beginners in the programming area, writing questions and answers about front-end development
+
+<code>Whats poppin' Devs!</code>
+<br>
